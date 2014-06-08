@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Caixl's Note]]></title>
+  <link href="http://caixl.github.io/atom.xml" rel="self"/>
+  <link href="http://caixl.github.io/"/>
+  <updated>2014-06-08T14:37:01+08:00</updated>
+  <id>http://caixl.github.io/</id>
+  <author>
+    <name><![CDATA[caixl]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://caixl.github.io/blog/2014/06/08/hello-world/"/>
+    <updated>2014-06-08T12:34:19+08:00</updated>
+    <id>http://caixl.github.io/blog/2014/06/08/hello-world</id>
+    <content type="html"><![CDATA[<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span>Coffeescript Tricks start:51 mark:52,54-55</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+</pre></td><td class="code"><pre><code class="coffeescript"><span class="line"><span class="c1"># Given an alphabet:</span>
+</span><span class="line"><span class="nv">alphabet = </span><span class="s">&#39;abcdefghijklmnopqrstuvwxyz&#39;</span>
+</span><span class="line">
+</span><span class="line"><span class="c1"># Iterate over part of the alphabet:</span>
+</span><span class="line"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span> <span class="nx">letter</span> <span class="k">for</span> <span class="nx">letter</span> <span class="k">in</span> <span class="nx">alphabet</span><span class="p">[</span><span class="mi">4</span><span class="p">..</span><span class="mi">8</span><span class="p">]</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+
+<div><div class="CodeRay">
+  <div class="code"><pre><span class="line-numbers"><a href="#n1" name="n1">1</a></span><span class="comment">#codeRay </span>
+<span class="line-numbers"><a href="#n2" name="n2">2</a></span><span class="keyword">def</span> <span class="function">hello</span>
+<span class="line-numbers"><a href="#n3" name="n3">3</a></span>  puts <span class="string"><span class="delimiter">&quot;</span><span class="content">hello world</span><span class="delimiter">&quot;</span></span>
+<span class="line-numbers"><a href="#n4" name="n4">4</a></span><span class="keyword">end</span>
+</pre></div>
+</div>
+</div>
+
+<p><code><span class="CodeRay">print <span class="string"><span class="delimiter">'</span><span class="content">hello</span><span class="delimiter">'</span></span></span></code>
+<code>world</code></p>
+]]></content>
+  </entry>
+  
+</feed>

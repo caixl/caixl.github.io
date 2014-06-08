@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Javascript | Caixl's Note]]></title>
+  <link href="http://caixl.github.io/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://caixl.github.io/"/>
+  <updated>2014-06-08T14:37:01+08:00</updated>
+  <id>http://caixl.github.io/</id>
+  <author>
+    <name><![CDATA[caixl]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://caixl.github.io/blog/2014/06/08/hello-world/"/>
+    <updated>2014-06-08T12:34:19+08:00</updated>
+    <id>http://caixl.github.io/blog/2014/06/08/hello-world</id>
+    <content type="html"><![CDATA[<p>``` coffeescript Coffeescript Tricks start:51 mark:52,54-55
+# Given an alphabet:
+alphabet = ‘abcdefghijklmnopqrstuvwxyz’</p>
+
+<h1 id="iterate-over-part-of-the-alphabet">Iterate over part of the alphabet:</h1>
+<p>console.log letter for letter in alphabet[4..8]
+```</p>
+
+<div><div class="CodeRay">
+  <div class="code"><pre><span class="line-numbers"><a href="#n1" name="n1">1</a></span><span class="comment">#codeRay </span>
+<span class="line-numbers"><a href="#n2" name="n2">2</a></span><span class="keyword">def</span> <span class="function">hello</span>
+<span class="line-numbers"><a href="#n3" name="n3">3</a></span>  puts <span class="string"><span class="delimiter">&quot;</span><span class="content">hello world</span><span class="delimiter">&quot;</span></span>
+<span class="line-numbers"><a href="#n4" name="n4">4</a></span><span class="keyword">end</span>
+</pre></div>
+</div>
+</div>
+
+<p><code><span class="CodeRay">print <span class="string"><span class="delimiter">'</span><span class="content">hello</span><span class="delimiter">'</span></span></span></code>
+<code>world</code></p>
+]]></content>
+  </entry>
+  
+</feed>
