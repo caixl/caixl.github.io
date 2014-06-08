@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Javascript | Caixl's Note]]></title>
-  <link href="http://caixl.github.io/blog/categories/javascript/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | Caixl's Note]]></title>
+  <link href="http://caixl.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://caixl.github.io/"/>
-  <updated>2014-06-08T15:05:36+08:00</updated>
+  <updated>2014-06-08T15:29:52+08:00</updated>
   <id>http://caixl.github.io/</id>
   <author>
-    <name><![CDATA[caixl]]></name>
+    <name><![CDATA[Caixl]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://caixl.github.io/blog/2014/06/08/hello-world/"/>
-    <updated>2014-06-08T12:34:19+08:00</updated>
+    <updated>2014-06-08T15:08:19+08:00</updated>
     <id>http://caixl.github.io/blog/2014/06/08/hello-world</id>
     <content type="html"><![CDATA[<p>``` coffeescript Coffeescript Tricks start:51 mark:52,54-55
 # Given an alphabet:
