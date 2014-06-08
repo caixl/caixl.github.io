@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | Caixl's Note]]></title>
   <link href="http://caixl.github.io/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://caixl.github.io/"/>
-  <updated>2014-06-08T14:37:01+08:00</updated>
+  <updated>2014-06-08T15:05:36+08:00</updated>
   <id>http://caixl.github.io/</id>
   <author>
     <name><![CDATA[caixl]]></name>
@@ -35,8 +35,9 @@ alphabet = ‘abcdefghijklmnopqrstuvwxyz’</p>
 </div>
 </div>
 
-<p><code><span class="CodeRay">print <span class="string"><span class="delimiter">'</span><span class="content">hello</span><span class="delimiter">'</span></span></span></code>
-<code>world</code></p>
+<p>References:
+<a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">Themes</a>,
+<a href="http://blog.codebykat.com/2013/05/23/gorgeous-octopress-codeblocks-with-coderay/">CodeRay</a></p>
 ]]></content>
   </entry>
   
