@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://caixl.github.io
-title: caixl's note
-subtitle: blog
+title: Caixl's Note
+subtitle: 
 author: caixl
 simple_search: https://www.google.com/search
 description:
@@ -65,8 +65,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # Github repositories
 github_user: caixl
 github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
+github_show_profile_link: false
+github_skip_forks: false
 
 # Twitter
 twitter_user:
